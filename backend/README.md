@@ -8,11 +8,13 @@
 
 2. Copy the `model` folder to the root of this backend project. The `model` folder should have the following structure:
 
+```
 ├── model
 │   ├── assets
 │   ├── variables
 │   ├── keras_metadata.pb
 │   ├── saved_model.pb
+```
 
 ### Running
 

@@ -11,6 +11,7 @@
 
 2. Extract the dataset into `data/`. The dataset folder should look like this:
 
+```
 ├── data
 │   ├── test
 │   │   ├── hot_dog
@@ -18,6 +19,7 @@
 │   └── train
 │   │   ├── hot_dog
 │   │   ├── not_hot_dog
+```
 
 ##### Running
 
