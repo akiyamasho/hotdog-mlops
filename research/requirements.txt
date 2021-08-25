@@ -1,0 +1,10 @@
+black==21.7b0
+flake8==3.9.2
+keras==2.6.0
+jupyter==1.0.0
+matplotlib==3.4.3
+pillow==8.3.1
+scipy==1.7.1
+scikit_learn==0.24.2
+scikit_image==0.18
+tensorflow==2.6.0
